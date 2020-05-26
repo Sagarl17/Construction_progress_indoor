@@ -22,8 +22,8 @@ pip install -r requirements-gpu.txt (If GPU is available)
 1.Download the stanford dataset from the following folder ,unzip it and place it the main folder:
     https://drive.google.com/open?id=1nXq75Aru5HouRyEmAWzHceMe4jRo3ptv
 
-2.Download the bim folder from the following link and replace the bim folder in data:
-    https://drive.google.com/open?id=1AwWjPi1SVuyxSOJALPJY8Wm6cMEkiwB6
+2.Download the model from the following link and place it in the models folder:
+    https://drive.google.com/open?id=1ls0dzSUtZRcxk9vg9bMah-mJO67B5EzA
 
 
 ```
